@@ -5,6 +5,7 @@ internal class Program
 {
     private static void Main(string[] args)
     {
+        Console.Clear();
         Mensajes.Saludar();
         byte op2 = 0;
         decimal money = 0;
@@ -47,6 +48,7 @@ internal class Program
                     case 4:
                         Console.Clear();
                         Mensajes.Despedir();
+                        Console.ReadKey();
                         Environment.Exit(0);
                         break;
                 }
@@ -59,5 +61,5 @@ internal class Program
             }
         } while (true);
     }
-    
+
 }
