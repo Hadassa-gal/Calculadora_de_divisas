@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Documents\\primerApp\\primerApp.csproj": {}
+    "C:\\Users\\HP\\Documents\\C#\\Calculadora_de_divisas\\primerApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Documents\\primerApp\\primerApp.csproj": {
+    "C:\\Users\\HP\\Documents\\C#\\Calculadora_de_divisas\\primerApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Documents\\primerApp\\primerApp.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Documents\\C#\\Calculadora_de_divisas\\primerApp.csproj",
         "projectName": "primerApp",
-        "projectPath": "C:\\Users\\HP\\Documents\\primerApp\\primerApp.csproj",
+        "projectPath": "C:\\Users\\HP\\Documents\\C#\\Calculadora_de_divisas\\primerApp.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Documents\\primerApp\\obj\\",
+        "outputPath": "C:\\Users\\HP\\Documents\\C#\\Calculadora_de_divisas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"
