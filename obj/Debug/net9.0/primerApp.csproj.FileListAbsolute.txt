@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\primerApp\bin\Debug\net9.0\primerApp.exe
+C:\Users\HP\Documents\primerApp\bin\Debug\net9.0\primerApp.deps.json
+C:\Users\HP\Documents\primerApp\bin\Debug\net9.0\primerApp.runtimeconfig.json
+C:\Users\HP\Documents\primerApp\bin\Debug\net9.0\primerApp.dll
+C:\Users\HP\Documents\primerApp\bin\Debug\net9.0\primerApp.pdb
+C:\Users\HP\Documents\primerApp\obj\Debug\net9.0\primerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\primerApp\obj\Debug\net9.0\primerApp.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\primerApp\obj\Debug\net9.0\primerApp.AssemblyInfo.cs
+C:\Users\HP\Documents\primerApp\obj\Debug\net9.0\primerApp.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\primerApp\obj\Debug\net9.0\primerApp.dll
+C:\Users\HP\Documents\primerApp\obj\Debug\net9.0\refint\primerApp.dll
+C:\Users\HP\Documents\primerApp\obj\Debug\net9.0\primerApp.pdb
+C:\Users\HP\Documents\primerApp\obj\Debug\net9.0\primerApp.genruntimeconfig.cache
+C:\Users\HP\Documents\primerApp\obj\Debug\net9.0\ref\primerApp.dll
